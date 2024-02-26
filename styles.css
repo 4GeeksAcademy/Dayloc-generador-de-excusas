@@ -1,0 +1,45 @@
+.actualizar{
+    background-color: rgb(205, 172, 225);
+    align-items: center;
+    padding: 50%;
+   margin-left: 50px;
+}
+.cabeza{
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    padding: 60px;
+    width: 100%;
+   background-image: url(https://picsum.photos/id/445/588/588) ;
+      
+   }
+   
+.repas ul{
+    
+    background-color: rgb(164, 164, 222);
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    margin-right: 10%;
+    
+}
+body{
+    display: grid;
+   justify-content: center;
+   align-items: center;
+    background-color: rgb(63, 143, 247);
+    
+}
+#problemas{
+    font-size: x-large;
+   
+    width: auto;
+}
+#excusas{
+    font-size: xx-large;
+    color: rgb(254, 152, 0);
+    }
+    image{
+        width: 100%;
+    }
